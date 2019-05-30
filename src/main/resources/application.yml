@@ -1,0 +1,31 @@
+# Spring properties
+spring:
+  application:
+     name: accounts-service  # Service registers under this name  
+     aop:
+          auto: true   
+  datasource: 
+    driverClassName: com.mysql.jdbc.Driver 
+    url: jdbc:mysql://localhost:3306/crawler?characterEncoding=UTF-8&amp;autoReconnect=true&amp;autoReconnectForPools=true
+    username: root
+    password: 666128
+    testOnBorrow: false
+    testOnReturn: false
+    testWhileIdle: true
+    maxActive: 100 
+    maxIdle: 8 
+    minIdle: 8 
+    initialSize: 10
+    timeBetweenEvictionRunsMillis: 3600000 
+    platform: mysql
+  jpa:
+      database-platform: org.hibernate.dialect.MySQL5Dialect      
+      hibernate:
+          ddl-auto: update  
+          show-sql: true
+    
+# HTTP Server
+server:  
+  context-path: /webserver
+  port: 8080   # HTTP (Tomcat) port  
+        
