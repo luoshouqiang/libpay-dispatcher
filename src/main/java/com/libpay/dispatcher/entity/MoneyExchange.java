@@ -18,6 +18,8 @@ public class MoneyExchange implements Serializable {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int id;
+	@Column(name="trace_id")
+	private int traceId;
 
 	@Column(name="actual_money")
 	private BigDecimal actualMoney;
@@ -109,4 +111,11 @@ public class MoneyExchange implements Serializable {
 		this.userName = userName;
 	}
 
+	public int getTraceId() {
+		return traceId;
+	}
+
+	public void setTraceId(int traceId) {
+		this.traceId = traceId;
+	}
 }

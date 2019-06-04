@@ -7,4 +7,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface FrozenExchangeRepository extends JpaRepository<FrozenExchange,Integer> {
+
+    public  FrozenExchange findByTraceId(int traceId);
 }

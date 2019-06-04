@@ -20,6 +20,9 @@ public class FrozenExchange implements Serializable {
     @GeneratedValue(strategy=GenerationType.AUTO)
     private int id;
 
+    @Column(name="trace_id")
+    private int traceId;
+
     private String comments;
 
     @Temporal(TemporalType.TIMESTAMP)
@@ -105,5 +108,13 @@ public class FrozenExchange implements Serializable {
 
     public void setPayStatus(int payStatus) {
         this.payStatus = payStatus;
+    }
+
+    public int getTraceId() {
+        return traceId;
+    }
+
+    public void setTraceId(int traceId) {
+        this.traceId = traceId;
     }
 }

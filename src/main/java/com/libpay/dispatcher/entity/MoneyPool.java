@@ -34,6 +34,9 @@ public class MoneyPool implements Serializable {
 	@Column(name="update_time")
 	private Date updateTime;
 
+	@Version
+	private int version;
+
 	public MoneyPool() {
 	}
 
@@ -75,5 +78,13 @@ public class MoneyPool implements Serializable {
 
 	public void setFrozenMoney(BigDecimal frozenMoney) {
 		this.frozenMoney = frozenMoney;
+	}
+
+	public int getVersion() {
+		return version;
+	}
+
+	public void setVersion(int version) {
+		this.version = version;
 	}
 }
