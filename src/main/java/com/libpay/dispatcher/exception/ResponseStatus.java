@@ -76,6 +76,10 @@ public class ResponseStatus<T> {
             }
 
         }
+		@Override
+		public String toString() {
+			return "ResponseStatus [code=" + code + ", msg=" + msg + ", data=" + data + "]";
+		}
 
 
 }

@@ -12,7 +12,7 @@ import java.util.Date;
  */
 @Entity
 @Table(name="money_exchange")
-public class MoneyExchange implements Serializable {
+public class MoneyExchange extends BaseEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
@@ -43,6 +43,9 @@ public class MoneyExchange implements Serializable {
 
 	@Column(name="user_name")
 	private String userName;
+
+	@Column(name="pool_type")
+	private int poolType;
 
 	public MoneyExchange() {
 	}
@@ -117,5 +120,12 @@ public class MoneyExchange implements Serializable {
 
 	public void setTraceId(int traceId) {
 		this.traceId = traceId;
+	}
+	public int getPoolType() {
+		return poolType;
+	}
+
+	public void setPoolType(int poolType) {
+		this.poolType = poolType;
 	}
 }

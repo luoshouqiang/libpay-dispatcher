@@ -13,7 +13,7 @@ import java.util.Date;
 @Entity
 @Table(name="frozen_exchange")
 
-public class FrozenExchange implements Serializable {
+public class FrozenExchange extends BaseEntity implements Serializable {
     private static final long serialVersionUID = 1L;
 
     @Id
@@ -42,6 +42,9 @@ public class FrozenExchange implements Serializable {
     private int status;
     @Column(name="pay_status")
     private int payStatus;
+
+	@Column(name="pool_type")
+	private int poolType;
 
     public FrozenExchange() {
     }
@@ -117,4 +120,13 @@ public class FrozenExchange implements Serializable {
     public void setTraceId(int traceId) {
         this.traceId = traceId;
     }
+
+
+	public int getPoolType() {
+		return poolType;
+	}
+
+	public void setPoolType(int poolType) {
+		this.poolType = poolType;
+	}
 }

@@ -12,12 +12,15 @@ import java.util.Date;
  */
 @Entity
 @Table(name="money_pool_change_log")
-public class MoneyPoolChangeLog implements Serializable {
+public class MoneyPoolChangeLog extends BaseEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int id;
+
+    @Column(name="trace_id")
+    private int traceId;
 
 	@Column(name="before_money_number")
 	private BigDecimal beforeMoneyNumber;
@@ -38,6 +41,9 @@ public class MoneyPoolChangeLog implements Serializable {
 	@Column(name="pay_id")
 	private int payId;
 
+	@Column(name="pool_type")
+	private int poolType;
+
 	public MoneyPoolChangeLog() {
 	}
 
@@ -47,6 +53,14 @@ public class MoneyPoolChangeLog implements Serializable {
 
 	public void setId(int id) {
 		this.id = id;
+	}
+
+	public int getTraceId() {
+		return traceId;
+	}
+
+	public void setTraceId(int traceId) {
+		this.traceId = traceId;
 	}
 
 	public BigDecimal getBeforeMoneyNumber() {
@@ -97,4 +111,11 @@ public class MoneyPoolChangeLog implements Serializable {
 		this.payId = payId;
 	}
 
+	public int getPoolType() {
+		return poolType;
+	}
+
+	public void setPoolType(int poolType) {
+		this.poolType = poolType;
+	}
 }

@@ -12,8 +12,7 @@ import java.util.Date;
  */
 @Entity
 @Table(name="money_pool")
-
-public class MoneyPool implements Serializable {
+public class MoneyPool extends BaseEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 
 	@Id
@@ -33,6 +32,9 @@ public class MoneyPool implements Serializable {
 	@Temporal(TemporalType.TIMESTAMP)
 	@Column(name="update_time")
 	private Date updateTime;
+
+	@Column(name="pool_type")
+	private int poolType;
 
 	@Version
 	private int version;
@@ -80,6 +82,14 @@ public class MoneyPool implements Serializable {
 		this.frozenMoney = frozenMoney;
 	}
 
+	public int getPoolType() {
+		return poolType;
+	}
+
+	public void setPoolType(int poolType) {
+		this.poolType = poolType;
+	}
+
 	public int getVersion() {
 		return version;
 	}
@@ -87,4 +97,5 @@ public class MoneyPool implements Serializable {
 	public void setVersion(int version) {
 		this.version = version;
 	}
+
 }
