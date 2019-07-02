@@ -6,7 +6,6 @@ import com.libpay.dispatcher.service.LibpayException;
 import com.libpay.dispatcher.service.MoneyPoolService;
 import com.libpay.dispatcher.service.PayStatus;
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -76,12 +75,12 @@ public class DispatcherController {
         return response;
     }
 
-    @RequestMapping(value = "/savemoney")
+    @RequestMapping(value = "/rechargeMoneypool")
     @ResponseBody
     public ResponseStatus<Long> saveMoney(@RequestBody MoneyExchange moneyExchange) {
     	ResponseStatus<Long> response=new ResponseStatus<Long>();
     	try{
-            moneyPoolService.saveMoney(moneyExchange);
+            moneyPoolService.rechargeMoneypool(moneyExchange);
             response.setData(0L);
         }catch(LibpayException ex){
             response=new ResponseStatus<Long>(ex);

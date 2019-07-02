@@ -1,12 +1,18 @@
 package com.libpay.dispatcher.service;
 
 import java.math.BigDecimal;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
 import javax.transaction.Transactional;
 
+import com.google.common.collect.Lists;
+import com.libpay.dispatcher.entity.SwipeRecord;
+import com.libpay.dispatcher.repository.*;
 import org.hibernate.StaleObjectStateException;
+import org.libpay.client.model.order.OrderBuilder;
+import org.libpay.client.model.order.PayOrder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,10 +24,6 @@ import org.springframework.util.CollectionUtils;
 import com.libpay.dispatcher.entity.FrozenExchange;
 import com.libpay.dispatcher.entity.MoneyExchange;
 import com.libpay.dispatcher.entity.MoneyPool;
-import com.libpay.dispatcher.repository.FrozenExchangeRepository;
-import com.libpay.dispatcher.repository.MoneyExchangeRepository;
-import com.libpay.dispatcher.repository.MoneyPoolChangeLogRepository;
-import com.libpay.dispatcher.repository.MoneyPoolRepository;
 
 @Service
 public class MoneyPoolService {
@@ -34,6 +36,9 @@ public class MoneyPoolService {
     MoneyPoolChangeLogRepository moneyPoolChangeLogRepository;
     @Autowired
     FrozenExchangeRepository frozenExchangeRepository;
+    @Autowired
+    PayOrderService payOrderService;
+
 
     public boolean dispatcherPayWithDay(MoneyExchange moneyExchange){
         try {
@@ -53,8 +58,10 @@ public class MoneyPoolService {
         revokeAfterPay(traceId,payStatus,poolType);
     }
 
+
+    //资金池充值
     @Transactional
-    public boolean saveMoney(MoneyExchange  moneyExchange) {
+    public boolean rechargeMoneypool(MoneyExchange  moneyExchange) {
         try {
             BigDecimal actualMoney = moneyExchange.getActualMoney();
             if(actualMoney.compareTo(new BigDecimal("0")) < 0) {
@@ -85,11 +92,11 @@ public class MoneyPoolService {
     }
 
     private MoneyPool getMoneyPoolByType(int poolType) {
-        MoneyPool moneyPoolt = moneyPoolRepository.findByPoolType(poolType);
-        if (null == moneyPoolt) {
+        MoneyPool moneyPool = moneyPoolRepository.findByPoolType(poolType);
+        if (null == moneyPool) {
             throw new LibpayException("there is no money pool configuration in DB.");
         }
-        return moneyPoolt;
+        return moneyPool;
 	}
 
 	@Transactional
@@ -142,6 +149,8 @@ public class MoneyPoolService {
         moneyPool.setTotalMoney(newTotalMoney);
         moneyPool.setFrozenMoney(newFrozenMoney);
         moneyPoolRepository.save(moneyPool);
+        //TODO not sure about what is traceId
+        payOrderService.payForExchangeId(traceId);
     }
 
     private FrozenExchange unfrozenMoney(String traceId, PayStatus payStatus) {
@@ -166,4 +175,7 @@ public class MoneyPoolService {
         System.out.println(frozenExchange);
         frozenExchangeRepository.save(frozenExchange);
     }
+
+
+
 }

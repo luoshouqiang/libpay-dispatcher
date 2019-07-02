@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="EclipseModuleManager">
-    <varelement var="file://$M2_REPO$/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" value="M2_REPO/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" />
-    <varelement var="file://$M2_REPO$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" value="M2_REPO/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" />
-    <varelement var="file://$M2_REPO$/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar" value="M2_REPO/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar" />
-    <varelement var="file://$M2_REPO$/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" value="M2_REPO/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" />
-    <varelement var="file://$M2_REPO$/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" value="M2_REPO/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" />
-    <varelement var="file://$M2_REPO$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" value="M2_REPO/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter/2.1.3.RELEASE/spring-boot-starter-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter/2.1.3.RELEASE/spring-boot-starter-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-jcl/5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-jcl/5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-expression/5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-expression/5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" value="M2_REPO/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-json/2.1.3.RELEASE/spring-boot-starter-json-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-json/2.1.3.RELEASE/spring-boot-starter-json-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-el/9.0.16/tomcat-embed-el-9.0.16.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-el/9.0.16/tomcat-embed-el-9.0.16.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.16/tomcat-embed-websocket-9.0.16.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.16/tomcat-embed-websocket-9.0.16.jar" />
-    <varelement var="file://$M2_REPO$/org/hibernate/validator/hibernate-validator/6.0.14.Final/hibernate-validator-6.0.14.Final.jar" value="M2_REPO/org/hibernate/validator/hibernate-validator/6.0.14.Final/hibernate-validator-6.0.14.Final.jar" />
-    <varelement var="file://$M2_REPO$/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar" value="M2_REPO/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar" />
-    <varelement var="file://$M2_REPO$/com/fasterxml/classmate/1.4.0/classmate-1.4.0.jar" value="M2_REPO/com/fasterxml/classmate/1.4.0/classmate-1.4.0.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-data-rest/2.1.3.RELEASE/spring-boot-starter-data-rest-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-data-rest/2.1.3.RELEASE/spring-boot-starter-data-rest-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/data/spring-data-rest-webmvc/3.1.5.RELEASE/spring-data-rest-webmvc-3.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-rest-webmvc/3.1.5.RELEASE/spring-data-rest-webmvc-3.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/data/spring-data-rest-core/3.1.5.RELEASE/spring-data-rest-core-3.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-rest-core/3.1.5.RELEASE/spring-data-rest-core-3.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/hateoas/spring-hateoas/0.25.1.RELEASE/spring-hateoas-0.25.1.RELEASE.jar" value="M2_REPO/org/springframework/hateoas/spring-hateoas/0.25.1.RELEASE/spring-hateoas-0.25.1.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" value="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" value="M2_REPO/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar" value="M2_REPO/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-log4j2/2.1.3.RELEASE/spring-boot-starter-log4j2-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-log4j2/2.1.3.RELEASE/spring-boot-starter-log4j2-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/logging/log4j/log4j-slf4j-impl/2.11.2/log4j-slf4j-impl-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.11.2/log4j-slf4j-impl-2.11.2.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/logging/log4j/log4j-jul/2.11.2/log4j-jul-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-jul/2.11.2/log4j-jul-2.11.2.jar" />
-    <varelement var="file://$M2_REPO$/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" value="M2_REPO/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-test/2.1.3.RELEASE/spring-boot-starter-test-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-test/2.1.3.RELEASE/spring-boot-starter-test-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-test/2.1.3.RELEASE/spring-boot-test-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-test/2.1.3.RELEASE/spring-boot-test-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" value="M2_REPO/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" />
-    <varelement var="file://$M2_REPO$/net/minidev/json-smart/2.3/json-smart-2.3.jar" value="M2_REPO/net/minidev/json-smart/2.3/json-smart-2.3.jar" />
-    <varelement var="file://$M2_REPO$/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" value="M2_REPO/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" />
-    <varelement var="file://$M2_REPO$/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" value="M2_REPO/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
-    <varelement var="file://$M2_REPO$/junit/junit/4.12/junit-4.12.jar" value="M2_REPO/junit/junit/4.12/junit-4.12.jar" />
-    <varelement var="file://$M2_REPO$/junit/junit/4.12/junit-4.12-sources.jar" kind="src:" value="M2_REPO/junit/junit/4.12/junit-4.12-sources.jar" />
-    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" value="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
-    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" kind="src:" value="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" />
-    <varelement var="file://$M2_REPO$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" value="M2_REPO/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
-    <varelement var="file://$M2_REPO$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar" value="M2_REPO/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar" />
-    <varelement var="file://$M2_REPO$/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar" value="M2_REPO/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar" />
-    <varelement var="file://$M2_REPO$/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar" value="M2_REPO/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar" />
-    <varelement var="file://$M2_REPO$/org/objenesis/objenesis/2.6/objenesis-2.6.jar" value="M2_REPO/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
-    <varelement var="file://$M2_REPO$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" value="M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
-    <varelement var="file://$M2_REPO$/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" value="M2_REPO/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" />
-    <varelement var="file://$M2_REPO$/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" value="M2_REPO/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/xmlunit/xmlunit-core/2.6.2/xmlunit-core-2.6.2.jar" value="M2_REPO/org/xmlunit/xmlunit-core/2.6.2/xmlunit-core-2.6.2.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-aop/2.1.3.RELEASE/spring-boot-starter-aop-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-aop/2.1.3.RELEASE/spring-boot-starter-aop-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar" value="M2_REPO/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" value="M2_REPO/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/hibernate/hibernate-core/5.3.7.Final/hibernate-core-5.3.7.Final.jar" value="M2_REPO/org/hibernate/hibernate-core/5.3.7.Final/hibernate-core-5.3.7.Final.jar" />
-    <varelement var="file://$M2_REPO$/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar" value="M2_REPO/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar" />
-    <varelement var="file://$M2_REPO$/antlr/antlr/2.7.7/antlr-2.7.7.jar" value="M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
-    <varelement var="file://$M2_REPO$/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar" value="M2_REPO/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar" />
-    <varelement var="file://$M2_REPO$/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar" value="M2_REPO/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar" />
-    <varelement var="file://$M2_REPO$/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar" value="M2_REPO/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar" />
-    <varelement var="file://$M2_REPO$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar" value="M2_REPO/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar" />
-    <varelement var="file://$M2_REPO$/com/google/guava/guava/16.0/guava-16.0.jar" value="M2_REPO/com/google/guava/guava/16.0/guava-16.0.jar" />
-    <varelement var="file://$M2_REPO$/com/google/guava/guava/16.0/guava-16.0-sources.jar" kind="src:" value="M2_REPO/com/google/guava/guava/16.0/guava-16.0-sources.jar" />
-    <varelement var="file://$M2_REPO$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar" value="M2_REPO/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar" />
-    <varelement var="file://$M2_REPO$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1-sources.jar" kind="src:" value="M2_REPO/org/jsoup/jsoup/1.11.1/jsoup-1.11.1-sources.jar" />
-    <varelement var="file://$M2_REPO$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" value="M2_REPO/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" />
-    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-configuration-processor/2.1.3.RELEASE/spring-boot-configuration-processor-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-configuration-processor/2.1.3.RELEASE/spring-boot-configuration-processor-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" value="M2_REPO/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" value="M2_REPO/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar" value="M2_REPO/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" value="M2_REPO/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" value="M2_REPO/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" value="M2_REPO/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.1.3.RELEASE/spring-boot-starter-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter/2.1.3.RELEASE/spring-boot-starter-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-jcl/5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-expression/5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" value="M2_REPO/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-json/2.1.3.RELEASE/spring-boot-starter-json-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-json/2.1.3.RELEASE/spring-boot-starter-json-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.jar" value="M2_REPO/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/9.0.16/tomcat-embed-el-9.0.16.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-el/9.0.16/tomcat-embed-el-9.0.16.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.16/tomcat-embed-websocket-9.0.16.jar" value="M2_REPO/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.16/tomcat-embed-websocket-9.0.16.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/hibernate/validator/hibernate-validator/6.0.14.Final/hibernate-validator-6.0.14.Final.jar" value="M2_REPO/org/hibernate/validator/hibernate-validator/6.0.14.Final/hibernate-validator-6.0.14.Final.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar" value="M2_REPO/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.4.0/classmate-1.4.0.jar" value="M2_REPO/com/fasterxml/classmate/1.4.0/classmate-1.4.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-rest/2.1.3.RELEASE/spring-boot-starter-data-rest-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-data-rest/2.1.3.RELEASE/spring-boot-starter-data-rest-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-webmvc/3.1.5.RELEASE/spring-data-rest-webmvc-3.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-rest-webmvc/3.1.5.RELEASE/spring-data-rest-webmvc-3.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-core/3.1.5.RELEASE/spring-data-rest-core-3.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-rest-core/3.1.5.RELEASE/spring-data-rest-core-3.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.25.1.RELEASE/spring-hateoas-0.25.1.RELEASE.jar" value="M2_REPO/org/springframework/hateoas/spring-hateoas/0.25.1.RELEASE/spring-hateoas-0.25.1.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" value="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" value="M2_REPO/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar" value="M2_REPO/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-log4j2/2.1.3.RELEASE/spring-boot-starter-log4j2-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-log4j2/2.1.3.RELEASE/spring-boot-starter-log4j2-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.11.2/log4j-slf4j-impl-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.11.2/log4j-slf4j-impl-2.11.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jul/2.11.2/log4j-jul-2.11.2.jar" value="M2_REPO/org/apache/logging/log4j/log4j-jul/2.11.2/log4j-jul-2.11.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" value="M2_REPO/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.1.3.RELEASE/spring-boot-starter-test-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-test/2.1.3.RELEASE/spring-boot-starter-test-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.1.3.RELEASE/spring-boot-test-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-test/2.1.3.RELEASE/spring-boot-test-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" value="M2_REPO/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3.jar" value="M2_REPO/net/minidev/json-smart/2.3/json-smart-2.3.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" value="M2_REPO/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" value="M2_REPO/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" value="M2_REPO/junit/junit/4.12/junit-4.12.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar" kind="src:" value="M2_REPO/junit/junit/4.12/junit-4.12-sources.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" value="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" kind="src:" value="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" value="M2_REPO/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar" value="M2_REPO/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar" value="M2_REPO/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar" value="M2_REPO/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.6/objenesis-2.6.jar" value="M2_REPO/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" value="M2_REPO/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" value="M2_REPO/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" value="M2_REPO/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.6.2/xmlunit-core-2.6.2.jar" value="M2_REPO/org/xmlunit/xmlunit-core/2.6.2/xmlunit-core-2.6.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.1.3.RELEASE/spring-boot-starter-aop-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-aop/2.1.3.RELEASE/spring-boot-starter-aop-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar" value="M2_REPO/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" value="M2_REPO/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.3.7.Final/hibernate-core-5.3.7.Final.jar" value="M2_REPO/org/hibernate/hibernate-core/5.3.7.Final/hibernate-core-5.3.7.Final.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar" value="M2_REPO/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar" value="M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar" value="M2_REPO/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar" value="M2_REPO/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar" value="M2_REPO/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar" value="M2_REPO/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar" value="M2_REPO/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar" value="M2_REPO/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0/guava-16.0.jar" value="M2_REPO/com/google/guava/guava/16.0/guava-16.0.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0/guava-16.0-sources.jar" kind="src:" value="M2_REPO/com/google/guava/guava/16.0/guava-16.0-sources.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar" value="M2_REPO/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1-sources.jar" kind="src:" value="M2_REPO/org/jsoup/jsoup/1.11.1/jsoup-1.11.1-sources.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" value="M2_REPO/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" />
+    <varelement var="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/2.1.3.RELEASE/spring-boot-configuration-processor-2.1.3.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-configuration-processor/2.1.3.RELEASE/spring-boot-configuration-processor-2.1.3.RELEASE.jar" />
     <src_description expected_position="0">
       <src_folder value="file://$MODULE_DIR$/src/test/java" expected_position="0" />
       <src_folder value="file://$MODULE_DIR$/src/test/resources" expected_position="1" />
@@ -127,7 +127,7 @@
     <orderEntry type="module-library">
       <library name="javax.annotation-api-1.3.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -136,7 +136,7 @@
     <orderEntry type="module-library">
       <library name="validation-api-2.0.1.Final.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -145,7 +145,7 @@
     <orderEntry type="module-library">
       <library name="javax.transaction-api-1.3.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/javax/transaction/javax.transaction-api/1.3/javax.transaction-api-1.3.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -154,7 +154,7 @@
     <orderEntry type="module-library">
       <library name="jaxb-api-2.3.1.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -163,7 +163,7 @@
     <orderEntry type="module-library">
       <library name="javax.activation-api-1.2.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -172,7 +172,7 @@
     <orderEntry type="module-library">
       <library name="javax.persistence-api-2.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -182,7 +182,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter/2.1.3.RELEASE/spring-boot-starter-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.1.3.RELEASE/spring-boot-starter-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -191,7 +191,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.3.RELEASE/spring-boot-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -200,7 +200,7 @@
     <orderEntry type="module-library">
       <library name="spring-core-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -209,7 +209,7 @@
     <orderEntry type="module-library">
       <library name="spring-jcl-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-jcl/5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.1.5.RELEASE/spring-jcl-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -218,7 +218,7 @@
     <orderEntry type="module-library">
       <library name="spring-context-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -227,7 +227,7 @@
     <orderEntry type="module-library">
       <library name="spring-aop-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -236,7 +236,7 @@
     <orderEntry type="module-library">
       <library name="spring-beans-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -245,7 +245,7 @@
     <orderEntry type="module-library">
       <library name="spring-expression-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-expression/5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.1.5.RELEASE/spring-expression-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -254,7 +254,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-autoconfigure-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -263,7 +263,7 @@
     <orderEntry type="module-library">
       <library name="snakeyaml-1.23.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -272,7 +272,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-web-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.3.RELEASE/spring-boot-starter-web-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -281,7 +281,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-json-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-json/2.1.3.RELEASE/spring-boot-starter-json-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-json/2.1.3.RELEASE/spring-boot-starter-json-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -290,7 +290,7 @@
     <orderEntry type="module-library">
       <library name="spring-web-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -299,7 +299,7 @@
     <orderEntry type="module-library">
       <library name="jackson-databind-2.9.8.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -308,7 +308,7 @@
     <orderEntry type="module-library">
       <library name="jackson-annotations-2.9.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -317,7 +317,7 @@
     <orderEntry type="module-library">
       <library name="jackson-core-2.9.8.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.8/jackson-core-2.9.8.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -326,7 +326,7 @@
     <orderEntry type="module-library">
       <library name="jackson-datatype-jdk8-2.9.8.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.8/jackson-datatype-jdk8-2.9.8.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -335,7 +335,7 @@
     <orderEntry type="module-library">
       <library name="jackson-datatype-jsr310-2.9.8.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.8/jackson-datatype-jsr310-2.9.8.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -344,7 +344,7 @@
     <orderEntry type="module-library">
       <library name="jackson-module-parameter-names-2.9.8.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.8/jackson-module-parameter-names-2.9.8.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -353,7 +353,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-tomcat-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-tomcat/2.1.3.RELEASE/spring-boot-starter-tomcat-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -362,7 +362,7 @@
     <orderEntry type="module-library">
       <library name="tomcat-embed-core-9.0.16.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -371,7 +371,7 @@
     <orderEntry type="module-library">
       <library name="tomcat-embed-el-9.0.16.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-el/9.0.16/tomcat-embed-el-9.0.16.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-el/9.0.16/tomcat-embed-el-9.0.16.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -380,7 +380,7 @@
     <orderEntry type="module-library">
       <library name="tomcat-embed-websocket-9.0.16.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.16/tomcat-embed-websocket-9.0.16.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.16/tomcat-embed-websocket-9.0.16.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -389,7 +389,7 @@
     <orderEntry type="module-library">
       <library name="hibernate-validator-6.0.14.Final.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/hibernate/validator/hibernate-validator/6.0.14.Final/hibernate-validator-6.0.14.Final.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/hibernate/validator/hibernate-validator/6.0.14.Final/hibernate-validator-6.0.14.Final.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -398,7 +398,7 @@
     <orderEntry type="module-library">
       <library name="jboss-logging-3.3.2.Final.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -407,7 +407,7 @@
     <orderEntry type="module-library">
       <library name="classmate-1.4.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/fasterxml/classmate/1.4.0/classmate-1.4.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.4.0/classmate-1.4.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -416,7 +416,7 @@
     <orderEntry type="module-library">
       <library name="spring-webmvc-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -425,7 +425,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-data-rest-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-data-rest/2.1.3.RELEASE/spring-boot-starter-data-rest-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-rest/2.1.3.RELEASE/spring-boot-starter-data-rest-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -434,7 +434,7 @@
     <orderEntry type="module-library">
       <library name="spring-data-rest-webmvc-3.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/data/spring-data-rest-webmvc/3.1.5.RELEASE/spring-data-rest-webmvc-3.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-webmvc/3.1.5.RELEASE/spring-data-rest-webmvc-3.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -443,7 +443,7 @@
     <orderEntry type="module-library">
       <library name="spring-data-rest-core-3.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/data/spring-data-rest-core/3.1.5.RELEASE/spring-data-rest-core-3.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-core/3.1.5.RELEASE/spring-data-rest-core-3.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -452,7 +452,7 @@
     <orderEntry type="module-library">
       <library name="spring-tx-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.5.RELEASE/spring-tx-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -461,7 +461,7 @@
     <orderEntry type="module-library">
       <library name="spring-hateoas-0.25.1.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/hateoas/spring-hateoas/0.25.1.RELEASE/spring-hateoas-0.25.1.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/hateoas/spring-hateoas/0.25.1.RELEASE/spring-hateoas-0.25.1.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -470,7 +470,7 @@
     <orderEntry type="module-library">
       <library name="slf4j-api-1.7.25.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -479,7 +479,7 @@
     <orderEntry type="module-library">
       <library name="spring-data-commons-2.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.5.RELEASE/spring-data-commons-2.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -488,7 +488,7 @@
     <orderEntry type="module-library">
       <library name="spring-plugin-core-1.2.0.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -497,7 +497,7 @@
     <orderEntry type="module-library">
       <library name="evo-inflector-1.2.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -506,7 +506,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-log4j2-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-log4j2/2.1.3.RELEASE/spring-boot-starter-log4j2-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-log4j2/2.1.3.RELEASE/spring-boot-starter-log4j2-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -515,7 +515,7 @@
     <orderEntry type="module-library">
       <library name="log4j-slf4j-impl-2.11.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/logging/log4j/log4j-slf4j-impl/2.11.2/log4j-slf4j-impl-2.11.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-slf4j-impl/2.11.2/log4j-slf4j-impl-2.11.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -524,7 +524,7 @@
     <orderEntry type="module-library">
       <library name="log4j-api-2.11.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -533,7 +533,7 @@
     <orderEntry type="module-library">
       <library name="log4j-core-2.11.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.11.2/log4j-core-2.11.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -542,7 +542,7 @@
     <orderEntry type="module-library">
       <library name="log4j-jul-2.11.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/logging/log4j/log4j-jul/2.11.2/log4j-jul-2.11.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-jul/2.11.2/log4j-jul-2.11.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -551,7 +551,7 @@
     <orderEntry type="module-library">
       <library name="jul-to-slf4j-1.7.25.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -560,7 +560,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-test-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-test/2.1.3.RELEASE/spring-boot-starter-test-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.1.3.RELEASE/spring-boot-starter-test-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -569,7 +569,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-test-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-test/2.1.3.RELEASE/spring-boot-test-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test/2.1.3.RELEASE/spring-boot-test-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -578,7 +578,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-test-autoconfigure-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.1.3.RELEASE/spring-boot-test-autoconfigure-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -587,7 +587,7 @@
     <orderEntry type="module-library">
       <library name="json-path-2.4.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -596,7 +596,7 @@
     <orderEntry type="module-library">
       <library name="json-smart-2.3.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/net/minidev/json-smart/2.3/json-smart-2.3.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/net/minidev/json-smart/2.3/json-smart-2.3.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -605,7 +605,7 @@
     <orderEntry type="module-library">
       <library name="accessors-smart-1.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -614,7 +614,7 @@
     <orderEntry type="module-library">
       <library name="asm-5.0.4.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -623,29 +623,29 @@
     <orderEntry type="module-library">
       <library name="junit-4.12.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/junit/junit/4.12/junit-4.12.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$M2_REPO$/junit/junit/4.12/junit-4.12-sources.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="hamcrest-core-1.3.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$M2_REPO$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="assertj-core-3.11.1.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -654,7 +654,7 @@
     <orderEntry type="module-library">
       <library name="mockito-core-2.23.4.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -663,7 +663,7 @@
     <orderEntry type="module-library">
       <library name="byte-buddy-1.9.10.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -672,7 +672,7 @@
     <orderEntry type="module-library">
       <library name="byte-buddy-agent-1.9.10.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -681,7 +681,7 @@
     <orderEntry type="module-library">
       <library name="objenesis-2.6.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.6/objenesis-2.6.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -690,7 +690,7 @@
     <orderEntry type="module-library">
       <library name="hamcrest-library-1.3.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -699,7 +699,7 @@
     <orderEntry type="module-library">
       <library name="jsonassert-1.5.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -708,7 +708,7 @@
     <orderEntry type="module-library">
       <library name="android-json-0.0.20131108.vaadin1.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -717,7 +717,7 @@
     <orderEntry type="module-library">
       <library name="spring-test-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -726,7 +726,7 @@
     <orderEntry type="module-library">
       <library name="xmlunit-core-2.6.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/xmlunit/xmlunit-core/2.6.2/xmlunit-core-2.6.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/xmlunit/xmlunit-core/2.6.2/xmlunit-core-2.6.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -735,7 +735,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-aop-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-aop/2.1.3.RELEASE/spring-boot-starter-aop-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-aop/2.1.3.RELEASE/spring-boot-starter-aop-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -744,7 +744,7 @@
     <orderEntry type="module-library">
       <library name="aspectjweaver-1.9.2.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -753,7 +753,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-data-jpa-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/2.1.3.RELEASE/spring-boot-starter-data-jpa-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -762,7 +762,7 @@
     <orderEntry type="module-library">
       <library name="spring-boot-starter-jdbc-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-jdbc/2.1.3.RELEASE/spring-boot-starter-jdbc-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -771,7 +771,7 @@
     <orderEntry type="module-library">
       <library name="HikariCP-3.2.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/3.2.0/HikariCP-3.2.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -780,7 +780,7 @@
     <orderEntry type="module-library">
       <library name="spring-jdbc-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.1.5.RELEASE/spring-jdbc-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -789,7 +789,7 @@
     <orderEntry type="module-library">
       <library name="hibernate-core-5.3.7.Final.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/hibernate/hibernate-core/5.3.7.Final/hibernate-core-5.3.7.Final.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.3.7.Final/hibernate-core-5.3.7.Final.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -798,7 +798,7 @@
     <orderEntry type="module-library">
       <library name="javassist-3.23.1-GA.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -807,7 +807,7 @@
     <orderEntry type="module-library">
       <library name="antlr-2.7.7.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -816,7 +816,7 @@
     <orderEntry type="module-library">
       <library name="jandex-2.0.5.Final.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -825,7 +825,7 @@
     <orderEntry type="module-library">
       <library name="dom4j-2.1.1.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/dom4j/dom4j/2.1.1/dom4j-2.1.1.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -834,7 +834,7 @@
     <orderEntry type="module-library">
       <library name="hibernate-commons-annotations-5.0.4.Final.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -843,7 +843,7 @@
     <orderEntry type="module-library">
       <library name="spring-data-jpa-2.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.5.RELEASE/spring-data-jpa-2.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -852,7 +852,7 @@
     <orderEntry type="module-library">
       <library name="spring-orm-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/5.1.5.RELEASE/spring-orm-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -861,7 +861,7 @@
     <orderEntry type="module-library">
       <library name="spring-aspects-5.1.5.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-aspects/5.1.5.RELEASE/spring-aspects-5.1.5.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -870,7 +870,7 @@
     <orderEntry type="module-library">
       <library name="mysql-connector-java-8.0.15.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -879,29 +879,29 @@
     <orderEntry type="module-library">
       <library name="guava-16.0.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/com/google/guava/guava/16.0/guava-16.0.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0/guava-16.0.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$M2_REPO$/com/google/guava/guava/16.0/guava-16.0-sources.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/com/google/guava/guava/16.0/guava-16.0-sources.jar" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="jsoup-1.11.1.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$M2_REPO$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1-sources.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.1/jsoup-1.11.1-sources.jar" />
         </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library name="commons-lang3-3.8.1.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -910,13 +910,12 @@
     <orderEntry type="module-library">
       <library name="spring-boot-configuration-processor-2.1.3.RELEASE.jar">
         <CLASSES>
-          <root url="file://$M2_REPO$/org/springframework/boot/spring-boot-configuration-processor/2.1.3.RELEASE/spring-boot-configuration-processor-2.1.3.RELEASE.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/2.1.3.RELEASE/spring-boot-configuration-processor-2.1.3.RELEASE.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.1.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.1.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.5.RELEASE" level="project" />
@@ -951,13 +950,18 @@
     <orderEntry type="library" name="Maven: org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.atteo:evo-inflector:1.2.2" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-log4j2:2.1.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-jul:2.11.2" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-quartz:2.1.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context-support:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.quartz-scheduler:quartz:2.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.mchange:mchange-commons-java:0.2.11" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-test:2.1.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-test:2.1.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:2.1.3.RELEASE" level="project" />
@@ -997,12 +1001,20 @@
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-jpa:2.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.data:spring-data-commons:2.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:5.1.5.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:5.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.15" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:16.0" level="project" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.11.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.ramble:libpay-client:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.54" level="project" />
+    <orderEntry type="library" name="Maven: com.ramble:libpay-common:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:4.5.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.3" level="project" />
+    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:2.1.3.RELEASE" level="project" />
   </component>
 </module>
