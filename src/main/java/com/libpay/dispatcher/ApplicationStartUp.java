@@ -44,7 +44,7 @@ public class ApplicationStartUp implements ApplicationListener<ContextRefreshedE
             CronTrigger trigger = TriggerBuilder.newTrigger().withIdentity(jobDetails.getJobName())
                     .withSchedule(scheduleBuilder).build();
 
-            scheduler.scheduleJob(jobDetail, trigger);
+           // scheduler.scheduleJob(jobDetail, trigger);
         }
     }
 

@@ -21,12 +21,12 @@ public class PayOrderService {
     SwipeRecordRepository swipeRecordRepository;
 //TODO ,need change marchId? what is the unit of amount?
     private void payOrderForClient(String exchangeId){
-        SwipeRecord swipeRecord= swipeRecordRepository.findByExchangeId(exchangeId);
-        OrderBuilder orderBuilder=new OrderBuilder();
-        orderBuilder.amount(swipeRecord.getReceivedAmount().intValue()).body("客户实际到账金额")
-                .subject("客户实际到账金额支付测试").device("pc").channelId(getPayType(swipeRecord.getPayType())).
-                mchOrderNo(exchangeId);
-        TransOrder order=orderBuilder.buildTransOrder();
+//        SwipeRecord swipeRecord= swipeRecordRepository.findByExchangeId(exchangeId);
+//        OrderBuilder orderBuilder=new OrderBuilder();
+//        orderBuilder.amount(swipeRecord.getReceivedAmount().intValue()).body("客户实际到账金额")
+//                .subject("客户实际到账金额支付测试").device("pc").channelId(getPayType(swipeRecord.getPayType())).
+//                mchOrderNo(exchangeId);
+//        TransOrder order=orderBuilder.buildTransOrder();
         //TODO need move this class to this project and add post transOrder
         //LibPay.postOrder();
     }
@@ -53,7 +53,7 @@ public class PayOrderService {
         Date now= calendar.getTime();
         calendar.add(Calendar.DATE,-1);
         Date beforeDate=calendar.getTime();
-        List<SwipeRecord> swipeRecordList=swipeRecordRepository.findSwipeRecordsByCreateTimeBetweenAndrAndReceivedTypeAndAndStatus(beforeDate,now,1,1);
+        List<SwipeRecord> swipeRecordList=swipeRecordRepository.findSwipeRecordsByCreateTimeBetweenAndReceivedTypeAndAndStatus(beforeDate,now,1,1);
         return swipeRecordList;
     }
     private String getPayType(int payType){

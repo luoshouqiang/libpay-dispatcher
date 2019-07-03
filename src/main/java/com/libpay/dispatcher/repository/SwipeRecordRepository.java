@@ -8,7 +8,7 @@ import java.util.Date;
 import java.util.List;
 
 public interface SwipeRecordRepository extends JpaRepository<SwipeRecord,Integer> {
-    public List<SwipeRecord> findSwipeRecordsByCreateTimeBetweenAndrAndReceivedTypeAndAndStatus(Date beforeDate, Date today, int receivedType, int status);
+    public List<SwipeRecord> findSwipeRecordsByCreateTimeBetweenAndReceivedTypeAndAndStatus(Date beforeDate, Date today, int receivedType, int status);
 
     SwipeRecord findByExchangeId(String exchangeId);
 }

@@ -23,6 +23,7 @@ public class DispatcherController {
     @GetMapping("/who")
     public ResponseStatus<Long> testGet(){
         System.out.println("-------------------------");
+        moneyPoolService.callbackAfterPay("1",PayStatus.SUCCESS,1);
         return new ResponseStatus<Long>();
     }
 
